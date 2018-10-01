@@ -17,6 +17,7 @@ female_ivory_human_shadow_head.png is based on [“female character template / w
 female_ivory_ogre_overlay_head.png is based on [“[LPC] Female Orc/Ogre/Goblin/Troll (base walkcycle)”][femorc] by [madmarcel][madmarcel]
 female_ivory_drake_head.png is based on [“Drakes and lizardfolk”][drakes] by [Nila122][nila122]
 female_ivory_drake_shadow_head.png is based on [“Drakes and lizardfolk”][drakes] by [Nila122][nila122]
+mask/arm/ are based on “_build/hair/masks_male.png” and  “_build/hair/masks_male.png” of [“Universal-LPC-spritesheet”][universal] by [Jaidyn Reiman (AKA JRConway3)][jrconway]
 
 [modhead]: https://opengameart.org/content/lpc-modular-heads
 [lpcbase]: http://lpc.opengameart.org/static/lpc-style-guide/assets.html
@@ -26,6 +27,7 @@ female_ivory_drake_shadow_head.png is based on [“Drakes and lizardfolk”][dra
 [medieval]: https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
 [barbarian]: https://opengameart.org/content/lpc-barbarian-sprite-base
 [wolf]: https://opengameart.org/content/lpc-wolf-animation
+[universal]: https://github.com/jrconway3/Universal-LPC-spritesheet
 
 [basxto]: https://opengameart.org/users/ba%C5%9Dto
 [redshrike]: https://opengameart.org/users/redshrike
@@ -34,6 +36,7 @@ female_ivory_drake_shadow_head.png is based on [“Drakes and lizardfolk”][dra
 [wulax]: https://opengameart.org/users/wulax
 [dalonedrau]: https://opengameart.org/users/dalonedrau
 [williamthompsonj]: https://opengameart.org/users/williamthompsonj
+[jrconway]: https://opengameart.org/users/jaidynreiman
 
 [cc]: https://creativecommons.org/licenses/by-sa/3.0/
 [gpl]: https://www.gnu.org/licenses/gpl-3.0.html
