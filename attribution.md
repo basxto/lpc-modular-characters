@@ -9,6 +9,7 @@ male_ivory_human_shadow_head.png is based on [“male character template / walkc
 male_ivory_drake_head.png is based on [“Drakes and lizardfolk”][drakes] by [Nila122][nila122]
 male_ivory_drake_shadow_head.png is based on [“Drakes and lizardfolk”][drakes] by [Nila122][nila122]
 male_ivory_ogre_head.png is based on [“Four characters: My LPC entries”][4chars] by [Stephen Challener (AKA Redshrike)][redshrike]
+male_ivory_wolf_head.png is based on [“[LPC] Wolf Animations”][wolf] by [William Thompson][williamthompsonj]
 male_skeleton_head.png is based on [“https://opengameart.org/content/lpc-medieval-fantasy-character-sprites”][medieval] by [Johannes Sjölund (AKA wulax)][wulax]
 female_ivory_normal_headless_walkcycle.png is based on [“female character template / walkcycle”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
 female_ivory_human_head.png is based on [“female character template / walkcycle”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
@@ -24,6 +25,7 @@ female_ivory_drake_shadow_head.png is based on [“Drakes and lizardfolk”][dra
 [femorc]: https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle
 [medieval]: https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
 [barbarian]: https://opengameart.org/content/lpc-barbarian-sprite-base
+[wolf]: https://opengameart.org/content/lpc-wolf-animation
 
 [basxto]: https://opengameart.org/users/ba%C5%9Dto
 [redshrike]: https://opengameart.org/users/redshrike
@@ -31,6 +33,7 @@ female_ivory_drake_shadow_head.png is based on [“Drakes and lizardfolk”][dra
 [madmarcel]: https://opengameart.org/users/madmarcel
 [wulax]: https://opengameart.org/users/wulax
 [dalonedrau]: https://opengameart.org/users/dalonedrau
+[williamthompsonj]: https://opengameart.org/users/williamthompsonj
 
 [cc]: https://creativecommons.org/licenses/by-sa/3.0/
 [gpl]: https://www.gnu.org/licenses/gpl-3.0.html
