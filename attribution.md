@@ -3,6 +3,7 @@ This submission [“[LPC] modular heads”][modhead] is dual licensed under [CC 
 All changes were made by [Sebastian Riedel (AKA Baŝto)][basxto]
 
 male_ivory_normal_headless_walkcycle.png is based on [“male character template / walkcycle”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
+male_ivory_normal_headless_slash.png is based on [“male slash animation”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
 male_ivory_muscular_headless_walkcycle.png is based on [“LPC Barbarian Sprite Base”][barbarian] by [dalonedrau][dalonedrau]
 male_ivory_human_head.png is based on [“male character template / walkcycle”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
 male_ivory_human_shadow_head.png is based on [“male character template / walkcycle”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
@@ -12,11 +13,13 @@ male_ivory_ogre_head.png is based on [“Four characters: My LPC entries”][4ch
 male_ivory_wolf_head.png is based on [“[LPC] Wolf Animations”][wolf] by [William Thompson][williamthompsonj]
 male_skeleton_head.png is based on [“https://opengameart.org/content/lpc-medieval-fantasy-character-sprites”][medieval] by [Johannes Sjölund (AKA wulax)][wulax]
 female_ivory_normal_headless_walkcycle.png is based on [“female character template / walkcycle”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
+female_ivory_normal_headless_slash.png is based on [“female slash animation”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
 female_ivory_human_head.png is based on [“female character template / walkcycle”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
 female_ivory_human_shadow_head.png is based on [“female character template / walkcycle”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
 female_ivory_ogre_overlay_head.png is based on [“[LPC] Female Orc/Ogre/Goblin/Troll (base walkcycle)”][femorc] by [madmarcel][madmarcel]
 female_ivory_drake_head.png is based on [“Drakes and lizardfolk”][drakes] by [Nila122][nila122]
 female_ivory_drake_shadow_head.png is based on [“Drakes and lizardfolk”][drakes] by [Nila122][nila122]
+female_ivory_wolf_head.png is based on [“[LPC] Wolf Animations”][wolf] by [William Thompson][williamthompsonj]
 mask/arm/ are based on “_build/hair/masks_male.png” and  “_build/hair/masks_male.png” of [“Universal-LPC-spritesheet”][universal] by [Jaidyn Reiman (AKA JRConway3)][jrconway]
 
 [modhead]: https://opengameart.org/content/lpc-modular-heads
