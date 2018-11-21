@@ -15,6 +15,8 @@ male_ivory_wolf_head.png is based on [“[LPC] Wolf Animations”][wolf] by [Wil
 male_skeleton_head.png is based on [“https://opengameart.org/content/lpc-medieval-fantasy-character-sprites”][medieval] by [Johannes Sjölund (AKA wulax)][wulax]
 female_ivory_normal_headless_walkcycle.png is based on [“female character template / walkcycle”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
 female_ivory_normal_headless_slash.png is based on [“female slash animation”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
+female_ivory_pregnant_headless_walkcycle.png.png is based on [“[LPC] Pregnancy Bases & Maternity Wear”][pregnant] by [ElizaWy][elizawy]
+female_ivory_pregnant_headless_slash.png is based on [“[LPC] Pregnancy Bases & Maternity Wear”][pregnant] by [ElizaWy][elizawy] and [“female slash animation”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
 female_ivory_human_head.png is based on [“female character template / walkcycle”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
 female_ivory_human_shadow_head.png is based on [“female character template / walkcycle”][lpcbase] by [Stephen Challener (AKA Redshrike)][redshrike]
 female_ivory_ogre_overlay_head.png is based on [“[LPC] Female Orc/Ogre/Goblin/Troll (base walkcycle)”][femorc] by [madmarcel][madmarcel]
@@ -33,6 +35,7 @@ mask/arm/ are based on “_build/hair/masks_male.png” and  “_build/hair/mask
 [wolf]: https://opengameart.org/content/lpc-wolf-animation
 [universal]: https://github.com/jrconway3/Universal-LPC-spritesheet
 [muscleswing]: https://opengameart.org/content/lpc-muscular-swing-animation
+[pregnant]: https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear
 
 [basxto]: https://opengameart.org/users/ba%C5%9Dto
 [redshrike]: https://opengameart.org/users/redshrike
