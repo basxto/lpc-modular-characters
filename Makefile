@@ -59,9 +59,15 @@ $(DESTDIR)/%_skeleton_walkcycle_compound.png: $(DESTDIR)/%_headless_walkcycle.pn
 $(DESTDIR)/%_all.png: $(DESTDIR)/%_walkcycle_compound.png $(DESTDIR)/%_slash_compound.png
 	magick convert -background none -append $? $@ 
 
+attribution.pdf: attribution.md
+	pandoc $< -o $@
+
+attribution.html: attribution.md
+	pandoc -s --metadata pagetitle="Attributions for modular bodies and heads" -t html5 $< -o $@
+
 .SECONDEXPANSION:
 $(DESTDIR)/%_compound.png: $(DESTDIR)/$$(shell echo $$* | cut -d'_' -f1-3)_headless_$$(shell echo $$* | cut -d'_' -f5).png $(DESTDIR)/$$(shell echo $$* | cut -d'_' -f1-2)_$$(shell echo $$* | cut -d'_' -f4)_head_$$(shell echo $$* | cut -d'_' -f5).png $(DESTDIR)/$$(shell echo $$* | cut -d'_' -f1-2)_$$(shell echo $$* | cut -d'_' -f4)_shadow_head_$$(shell echo $$* | cut -d'_' -f5).png
 	magick convert -background none $? -layers flatten $@
 
 clean:
-	-rm -r tmp_$(DESTDIR)/ $(DESTDIR)/
+	-rm -r tmp_$(DESTDIR)/ $(DESTDIR)/ attribution.pdf attribution.html
