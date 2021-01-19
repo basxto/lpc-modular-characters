@@ -66,16 +66,16 @@ build_character(){
 
     # combine each animation
     for animation in ${animations}; do
-        magick convert -background none ${tmp}/${gender}_${body}_headless_${animation}_${skinc}.png ${tmp}/${gender}_${head}_head_shadow_${skinc}_${animation}.png  ${tmp}/${gender}_${head}_head_${skinc}_${animation}.png -layers flatten ${tmp}/${gender}_${body}_${animation}_${skinc}.png
+        magick convert -background none ${tmp}/${gender}_${body}_headless_${animation}_${skinc}.png ${tmp}/${gender}_${head}_head_shadow_${skinc}_${animation}.png ${tmp}/${gender}_${head}_head_${skinc}_${animation}.png -layers flatten ${dir}/${prefix}_${name}__${animation}.png
     done
     # remove target file if it already exists
     [ -f $1 ] && rm $1
     # combine all animations into one big spritesheet
     for animation in ${animations}; do
         if [ -f $1 ]; then
-            magick montage -mode concatenate -tile 1x -background none $1 ${tmp}/${gender}_${body}_${animation}_${skinc}.png $1
+            magick montage -mode concatenate -tile 1x -background none $1 ${dir}/${prefix}_${name}__${animation}.png $1
         else
-            cp ${tmp}/${gender}_${body}_${animation}_${skinc}.png $1
+            cp ${dir}/${name}__${animation}.png $1
         fi
     done
 }
