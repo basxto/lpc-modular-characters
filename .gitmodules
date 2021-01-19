@@ -1,3 +1,6 @@
 [submodule "lpc-shell-tools"]
 	path = lpc-shell-tools
 	url = https://github.com/basxto/lpc-shell-tools.git
+[submodule "loadgpl"]
+	path = loadgpl
+	url = https://github.com/basxto/loadgpl
